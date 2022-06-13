@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Calculator.Client": {
+      "commandName": "Project",
+      "commandLineArgs": "-docker"
+    }
+  }
+}
